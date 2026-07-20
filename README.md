@@ -27,7 +27,7 @@ Construyo soluciones backend robustas y experiencias frontend limpias.
 
 ## Contacto
 
-[LinkedIn](https://www.linkedin.com/in/calcinas-adrian/) · [Email](mailto:calcinas.adrian@yahoo.com) · [Portafolio - mi web](calcinas-adrian.com)
+[LinkedIn](https://www.linkedin.com/in/calcinas-adrian/) · [Email](mailto:calcinas.adrian@yahoo.com) · [Portafolio - mi web](https://calcinas-adrian.com)
 
 <br>
 
